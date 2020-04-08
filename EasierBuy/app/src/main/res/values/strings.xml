@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasierBuy</string>
+    <string name="btnsearch">Search</string>
+    <string name="btnfavor">Favourite</string>
+    <string name="btnhistory">History</string>
+    <string name="testword">Suprise! you have found a testing area!</string>
+    <string name="searchHint">Use key word to find your next pleasure!</string>
+    <string name="historyHint">Only item url is allowed~</string>
+</resources>
